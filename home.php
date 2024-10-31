@@ -1,8 +1,8 @@
 <?php
 session_start();
-$_SESSION["prenom"] = "Amine";
-$_SESSION["nom"] = "Ze";
-$_SESSION["email"] = "am@gmail.com";
+$_SESSION["prenom"] = "Taha";
+$_SESSION["nom"] = "Rm";
+$_SESSION["email"] = "TR@gmail.com";
 ?>
 
 ?>
